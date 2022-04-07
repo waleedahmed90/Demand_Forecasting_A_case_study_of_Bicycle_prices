@@ -74,5 +74,4 @@ Please find detailed analysis and experiments in the respective notebooks.
 
 We can run these models on real-time data once we have a continuous stream of incoming data. In that case, after prediction on the new data, the new data is appended to the training dataset and the model is trained anew on this combined dataset. This is a recursive process which makes the model performance better with incoming data.
 
-# Future work
-1. Test other algorithms against these baseline models and integrate the best performing model into the pipeline.
+
